@@ -103,6 +103,12 @@ main {
     background:url("../images/hero-image.webp") no-repeat center center/cover;
     position: relative;
 }
+#aboutus {
+    height:600px;
+    width: 50%;
+    background:url("../images/aboutus.webp") no-repeat center center/cover;
+    position: relative;
+}
 
 #cover-text {
 /* Final rgba value sets the opacity - so its semi-transparent */
